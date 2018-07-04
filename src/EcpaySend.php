@@ -1,6 +1,6 @@
 <?php
 
-namespace flamelin\ECPay;
+namespace crossdunk\ECPay;
 
 class EcpaySend extends \ECPay_Send
 {

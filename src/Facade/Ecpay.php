@@ -1,6 +1,6 @@
 <?php
 
-namespace flamelin\ECPay\Facade;
+namespace crossdunk\ECPay\Facade;
 
 use Illuminate\Support\Facades\Facade;
 

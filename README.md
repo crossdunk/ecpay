@@ -5,12 +5,12 @@
 **step 1 : Download the package**<br>
 composer命令安裝
 ```
-composer require flamelin/ecpay dev-master
+composer require crossdunk/ecpay dev-master
 ```
 或者是新增package至composer.json
 ```
 "require": {
-  "flamelin/ecpay": "dev-master"
+  "crossdunk/ecpay": "dev-master"
 },
 ```
 然後更新安裝
@@ -28,12 +28,12 @@ composer install
 ```
 'providers' => [
   // ...
-  flamelin\ECPay\EcpayServiceProvider::class,
+  crossdunk\ECPay\EcpayServiceProvider::class,
 ]
 
 'aliases' => [
   // ...
-  'Ecpay' => flamelin\ECPay\Facade\Ecpay::class,
+  'Ecpay' => crossdunk\ECPay\Facade\Ecpay::class,
 ]
 ```
 

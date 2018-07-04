@@ -1,8 +1,8 @@
 <?php
 
-namespace flamelin\ECPay;
+namespace crossdunk\ECPay;
 
-use flamelin\ECPay\EcpayFactory;
+use crossdunk\ECPay\EcpayFactory;
 
 class Ecpay
 {

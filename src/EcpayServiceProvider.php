@@ -1,6 +1,6 @@
 <?php
 
-namespace flamelin\ECPay;
+namespace crossdunk\ECPay;
 
 use Illuminate\Support\ServiceProvider;
 

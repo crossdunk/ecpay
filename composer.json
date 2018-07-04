@@ -1,5 +1,5 @@
 {
-    "name": "kk/ecpay",
+    "name": "crossdunk/ecpay",
     "description": "ECPay for Laravel 5",
     "type": "ecTool",
     "keywords": ["ecpay"],
@@ -16,7 +16,7 @@
             "src/lib"
         ],
         "psr-4": {
-            "kk\\ECPay\\": "src/"
+            "crossdunk\\ECPay\\": "src/"
         }
     }
 }

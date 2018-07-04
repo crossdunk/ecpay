@@ -1,9 +1,9 @@
 <?php
 
-namespace flamelin\ECPay\Controllers;
+namespace crossdunk\ECPay\Controllers;
 
 use App\Http\Controllers\Controller;
-use flamelin\ECPay\Facade\Ecpay;
+use crossdunk\ECPay\Facade\Ecpay;
 use Illuminate\Http\Request;
 
 class DemoController extends Controller
